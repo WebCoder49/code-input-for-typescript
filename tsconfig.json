@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "module": "ES6",
+      "target": "ES6",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true
+    },
+    "files": [
+        "prism/prism.d.ts", // From https://www.npmjs.com/package/@types/prismjs
+
+        "code-input/code-input.d.ts",
+
+        "custom-plugin.ts",
+        "builtin-plugins.ts",
+        "just-register.ts"
+    ]
+  }
