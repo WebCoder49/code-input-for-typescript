@@ -1,6 +1,6 @@
 # `code-input` *for TypeScript*
 
-[JavaScript Version](https://github.com/WebCoder49/code-input)
+[Main Library](https://github.com/WebCoder49/code-input)
 
 > Fully customisable syntax-highlighted textareas ___with TypeScript Bindings for frontend use___.
 
